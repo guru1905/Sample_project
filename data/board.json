@@ -1,0 +1,45 @@
+{
+    "name":"task-board",
+    "columns":[
+        {
+            "name":"todo",
+            "tasks":[
+                {
+                    "id":"",
+                    "name":"task1",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name":"inprogress",
+            "tasks":[
+                {
+                    "id":"Task 2",
+                    "name":"",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name":"completed",
+            "tasks":[
+                {
+                    "id":"",
+                    "name":"task4",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name":"closed",
+            "tasks":[
+                {
+                    "id":"",
+                    "name":"task5",
+                    "description":""
+                }
+            ]
+        }
+    ]
+}
